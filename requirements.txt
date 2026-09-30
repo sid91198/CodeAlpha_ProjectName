@@ -1,0 +1,9 @@
+deep-translator
+pyttsx3
+nltk
+scikit-learn
+music21
+tensorflow
+numpy
+ultralytics
+opencv-python
